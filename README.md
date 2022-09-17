@@ -6,7 +6,7 @@
 
 Projeto desenvolvido com base no evento Next Level Week da Rocketseat e adaptado para o meu mundo.
 
-🔗 [Clique aqui para acessar](https://dani-granzotti.github.io/nlw-myfavorites-explorer/)
+[Clique aqui para acessar](https://dani-granzotti.github.io/nlw-myfavorites-explorer/)
 
 ## Tecnologias
 
